@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Writing Resources
 uid: 324d74cd-cd11-5fa7-ec31-7a6d31ec1fc2
 ---
