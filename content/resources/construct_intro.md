@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 324d74cd-cd11-5fa7-ec31-7a6d31ec1fc2
 resourcetype: Document
 title: Constructing Introductions
 uid: 4f4ad692-236d-0179-e55b-79c8eb63b56f

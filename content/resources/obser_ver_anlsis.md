@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 324d74cd-cd11-5fa7-ec31-7a6d31ec1fc2
 resourcetype: Document
 title: Observation vs. Analysis
 uid: cec10bae-ebe0-06ca-3712-f9f2f7921e93

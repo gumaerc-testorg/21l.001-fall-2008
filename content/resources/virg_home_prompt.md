@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab362297-4293-965c-593d-722c0ecbded5
 resourcetype: Document
 title: Homer/Virgil Essay Prompt
 uid: 546be38c-4e1d-1a9e-d537-1a8139c00ad7

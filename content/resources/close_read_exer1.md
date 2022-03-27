@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab362297-4293-965c-593d-722c0ecbded5
 resourcetype: Document
 title: Close Reading Exercise
 uid: 46cc4d6a-751e-3d91-c14c-eab43ab43d35

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab362297-4293-965c-593d-722c0ecbded5
 resourcetype: Document
 title: Elements of Close Reading
 uid: 1edceb24-0bc7-5f85-0dd2-a993e4ad2d60

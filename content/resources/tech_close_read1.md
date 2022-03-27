@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ab362297-4293-965c-593d-722c0ecbded5
 resourcetype: Document
 title: Techniques of Close Reading
 uid: b9fea184-063a-713b-140b-df9cc657feba

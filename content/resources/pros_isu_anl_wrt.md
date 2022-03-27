@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 324d74cd-cd11-5fa7-ec31-7a6d31ec1fc2
 resourcetype: Document
 title: Prose Issues to Watch for in Analytic Writing
 uid: 21afed73-0687-608b-9736-9fff6aa4e850

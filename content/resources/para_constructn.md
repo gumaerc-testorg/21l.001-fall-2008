@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Writing Resources
 parent_type: CourseSection
+parent_uid: 324d74cd-cd11-5fa7-ec31-7a6d31ec1fc2
 resourcetype: Document
 title: Paragraph Construction, Transitions, and Incorporating Quotations
 uid: c0bbc451-416e-d03f-35b6-4b31449b319f
