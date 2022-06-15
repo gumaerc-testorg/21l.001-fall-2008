@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by class session along
+  with links to downloadable texts used in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
