@@ -6,6 +6,7 @@ file: /courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Close Reading Exercise
 uid: 46cc4d6a-751e-3d91-c14c-eab43ab43d35
 ---
 Assignment to use techniques of close reading as a way of delving more deeply into Agamemnon from Homer’s Iliad.
-
