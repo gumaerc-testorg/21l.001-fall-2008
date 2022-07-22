@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by class session along
+  with links to downloadable texts used in the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2a519de1-cd36-daef-681e-937d7bcc9bf2
 ---

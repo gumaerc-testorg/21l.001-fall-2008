@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, plagiarism policy, and the schedule of lecture topics
+  and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4ff1aa78-de30-fa0d-585e-a64df1376049
 ---
@@ -23,7 +28,7 @@ You may miss one class, no questions asked. After that, unexcused absences will 
 
 ### Written Assignments
 
-You will complete three forms of written [assignments]({{< baseurl >}}/pages/assignments) during the term.
+You will complete three forms of written {{% resource_link ab362297-4293-965c-593d-722c0ecbded5 "assignments" %}} during the term.
 
 1.  Three short (two-page) plot summaries of one of texts (or a portion thereof) that we have read in class. 15% of total grade.
 2.  One short (four-page) exercise designed to teach you the basics of what "close reading" is, and how to make it the foundation of arguments about literary texts. First draft, 5%; second draft, 10% of total grade.
