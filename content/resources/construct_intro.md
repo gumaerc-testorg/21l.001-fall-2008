@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout on constructing introductions for an essay.
-file: /courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/4f4ad692236d0179e55b79c8eb63b56f_construct_intro.pdf
+file: /ol-ocw-studio-app/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/4f4ad692236d0179e55b79c8eb63b56f_construct_intro.pdf
 file_size: 70360
 file_type: application/pdf
 learning_resource_types: []
