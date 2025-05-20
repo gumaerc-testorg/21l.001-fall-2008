@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Class handout on prose issues to watch for in analytic writing.
-file: /ol-ocw-studio-app/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/21afed730687608b97369fff6aa4e850_pros_isu_anl_wrt.pdf
+file: /courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/21afed730687608b97369fff6aa4e850_pros_isu_anl_wrt.pdf
 file_size: 70889
 file_type: application/pdf
 learning_resource_types: []
