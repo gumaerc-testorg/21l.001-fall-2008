@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout on roles of sentences in body paragraphs and a few words
   on conclusions.
-file: /ol-ocw-studio-app/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/23f74fb41efad94b723cf340a6bf6514_body_para_concl.pdf
+file: /courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/23f74fb41efad94b723cf340a6bf6514_body_para_concl.pdf
 file_size: 67042
 file_type: application/pdf
 learning_resource_types: []

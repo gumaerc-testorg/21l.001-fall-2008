@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment supplement on the elements of close reading.
-file: /ol-ocw-studio-app/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/1edceb240bc75f850dd2a993e4ad2d60_elemntcloseread1.pdf
+file: /courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/1edceb240bc75f850dd2a993e4ad2d60_elemntcloseread1.pdf
 file_size: 68304
 file_type: application/pdf
 learning_resource_types:
