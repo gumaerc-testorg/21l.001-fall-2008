@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout on writing good theses, fruit papers, and other crucial
   issues.
-file: /courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/028e35ffbbadefd716fba6e098bfb8db_good_thses_fruit.pdf
+file: /ol-ocw-studio-app/courses/21l-001-foundations-of-western-culture-homer-to-dante-fall-2008/028e35ffbbadefd716fba6e098bfb8db_good_thses_fruit.pdf
 file_size: 67640
 file_type: application/pdf
 learning_resource_types: []
